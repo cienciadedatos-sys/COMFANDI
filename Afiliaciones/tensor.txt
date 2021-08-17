@@ -1,0 +1,17 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "SOS: Afiliaciones",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/cienciadedatos-sys/COMFANDI/main/Afiliaciones/_tensor00_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/cienciadedatos-sys/COMFANDI/main/Afiliaciones/_tensor00_metadata.tsv"
+      
+      
+
+
+    }
+  ]
+}
